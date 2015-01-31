@@ -1,0 +1,122 @@
+/* 
+	Ciccarelli 
+		Azul: #383780 ;
+		Vermelho: #a52317;
+
+	Combinations Colors
+		Azul ...: #738dac;
+		Verde ..: #66cc99;
+		Vermelho: #e26a6a;
+		Roxo ...: #ae6ba7;
+		Laranja : #eb974e;
+		Azul BB : #65c6bb;
+*/
+body {
+	margin: 0;
+	padding: 0;
+}
+.vantagens {
+	color: #fff;
+	font-size: 18px;
+	padding: 15px 20px;
+}
+.ico {
+	font-size: 36px;
+	margin-bottom: 15px;
+}
+.ico2 {
+	font-size: 200px;
+	border-radius: 5px 0 0 5px;
+	color: #fff;
+}
+.titulo-vermelho {
+	color: #a52317;
+	font-weight: bold;
+	padding: 39px 0 15px 0;
+}
+.titulo-produtos {
+	font-size: 28px;
+	margin-left: 15px;
+}
+.titulo-descricao {
+	margin-bottom: 30px;
+}
+.texto-aviso {
+	font-size: 16px;
+	padding: 5px 40px;
+	text-align: center;
+	font-weight: bold;
+}
+.texto-descricao {
+	text-indent: 15px;
+}
+.border-aviso {
+	border-radius: 0 5px 5px 0;
+}
+.bg-color {
+	background-color: #a52317;
+}
+.align-center {
+	text-align: center;
+}
+.banner {
+	margin-left: -15px;
+	border-radius: 5px 5px 0 0;
+}
+.title {
+	margin-top: 5px;
+	color: #fff;
+	font-weight: bold;
+	padding: 5px;
+	background: #a52317;
+	border-radius: 5px;
+}
+.imagem-produto {
+	margin: 50px auto;
+}
+.bandeira-italia {
+	width: 35px;
+	height: 25px;
+	background: #e20000;
+	background: -moz-linear-gradient(left,  #e20000 0%, #e20000 33%, #ffffff 33%, #ffffff 66%, #009e07 66%, #009e07 66%);
+	background: -webkit-gradient(linear, left top, right top, color-stop(0%,#e20000), color-stop(33%,#e20000), color-stop(33%,#ffffff), color-stop(66%,#ffffff), color-stop(66%,#009e07), color-stop(66%,#009e07));
+	background: -webkit-linear-gradient(left,  #e20000 0%,#e20000 33%,#ffffff 33%,#ffffff 66%,#009e07 66%,#009e07 66%);
+	background: -o-linear-gradient(left,  #e20000 0%,#e20000 33%,#ffffff 33%,#ffffff 66%,#009e07 66%,#009e07 66%);
+	background: -ms-linear-gradient(left,  #e20000 0%,#e20000 33%,#ffffff 33%,#ffffff 66%,#009e07 66%,#009e07 66%);
+	background: linear-gradient(to right,  #e20000 0%,#e20000 33%,#ffffff 33%,#ffffff 66%,#009e07 66%,#009e07 66%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e20000', endColorstr='#009e07',GradientType=1 );
+}
+.produto-importado {
+	height: 25px;
+	margin-top: 5px;
+	font-weight: bold;
+}
+.formas-pagamentos {
+	background-color: #f3f2f0;
+}
+/* BG Colors */
+.bg-azul {
+	background-color: #738dac;
+}
+.bg-azulBB {
+	background-color: #65c6bb;
+}
+.bg-verde {
+	background-color: #66cc99;
+}
+.bg-vermelho {
+	background-color: #e26a6a;
+}
+.bg-roxo {
+	background-color: #ae6ba7;
+}
+.bg-laranja {
+	background-color: #eb974e;
+}
+.bg-cinza {
+	background-color: #d1d1d1;
+}
+.color-red {
+	color: #a52317;
+	font-weight: bold;
+}
